@@ -41,6 +41,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         padding: 16,
     },
+    an intentional bugggggg
     input: {
         height: 40, 
         borderColor: 'gray',
